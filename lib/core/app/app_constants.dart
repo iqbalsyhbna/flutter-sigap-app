@@ -1,0 +1,2 @@
+const double defaultMargin = 24;
+const String fcmToken = "f6mAkVj_bwQ:APA91bFB_LcQK0hyMXAnU1sv24tkdcrt1jDcDB3aWCicU9WVLzQZ5maSzlTNOgi8Hc7sSNaXlfm1KUOjBG2E10HW9PHcWCnml5U0gAHI0TbJYC9UMeJgRwD2HBksZ66IrrVPBVxjihKu";

@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "message": "Berhasil Masuk!",
+  "data": {
+    "user": {
+      "id": 2,
+      "name": "User",
+      "username": "user",
+      "email": "user@user.com"
+    },
+    "token": "11|FDpEO0dJk3MuNuB2kk7aVbu7jGDxfFBjsUfVsikf"
+  }
+}
